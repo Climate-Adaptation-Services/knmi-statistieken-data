@@ -3,6 +3,6 @@ Tropische dagen;Hitte;De grafieken tonen het gemiddelde aantal tropische dagen p
 Reeks droge dagen;Droogte;;14,15,16,17,18,19,20;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000000
 Reeks zomerdagen;Hitte;;0,10,20,30,40,50,60;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000001
 Tropische nachten;Hitte;;0,10,20,30,40,50,60;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000002
-Warme dagen;Hitte;;0,10,20,30,40,50,60;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000003
-Vorstdagen;Hitte;;0,10,20,30,40,50,60;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000004
-Zomerdagen;Hitte;;0,10,20,30,40,50,60;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000005
+Warme dagen;Hitte;;0,30,60,90,120,150,180;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000003
+Vorstdagen;Hitte;;0,15,30,45,60,75,90;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000004
+Zomerdagen;Hitte;;0,30,60,90,120,150,180;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000005
