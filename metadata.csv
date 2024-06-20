@@ -6,10 +6,10 @@ Tropische nachten;Hitte;;0,10,20,30,40,50,60;Aantal dagen;#F5F908, #F5AC05, #F55
 Warme dagen;Hitte;;50,70,90,110,130,150,170;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000003
 Vorstdagen;Hitte;;0,15,30,45,60,75,90;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000004
 Zomerdagen;Hitte;;0,20,40,60,80,100,120;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000005
-Aantal dagen met max temp <= 0;Wateroverlast;;0,20,40,60,80,100,121;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000006
+Aantal dagen met max temp. <= 0;Wateroverlast;;0,20,40,60,80,100,121;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000006
 Aantal dagen met neerslag som >= 15 mm;Wateroverlast;;0,20,40,60,80,100,122;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000007
 Aantal dagen met neerslag som >= 25 mm;Wateroverlast;;0,20,40,60,80,100,123;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000008
-Neerslagsom jaar;Droogte;;400,500,600,700,800,900,1000;Aantal mm;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000009
+Neerslagsom jaar;Droogte;;750,800,850,900,950,1000,1050;Aantal mm;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000009
 Neerslagsom winter;Droogte;;400,500,600,700,800,900,1000;Aantal mm;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000010
 Neerslagsom zomer;Droogte;;400,500,600,700,800,900,1000;Aantal mm;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000011
 Gemiddelde temp. jaar;Hitte;;10,11,12,13,14,15,16;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000012
