@@ -1,17 +1,17 @@
 Indicator;Thema;Omschrijving;y-as domein;y-as titel;Kleuren
 Tropische dagen;Hitte;De grafieken tonen het gemiddelde aantal tropische dagen per jaar in huidige klimaat (1990-2020) en voor het klimaat rond 2050 en 2100 (waarden voor het laagste (Ln) en hoogste (Hd) KNMI’23 klimaatscenario). We spreken in Nederland van een tropische dag als de maximumtemperatuur 30 °C of hoger is. Door de temperende werking van de zee komen tropische dagen aan de kust minder vaak voor dan in het binnenland. Het hoogste aantal tropische dagen worden in het zuidoosten van ons land behaald. In de toekomst zal het aantal tropische dagen overal in Nederland stijgen. Tropische dagen zorgen vaak voor hittestress, met name bij ouderen en zieken. Ook bij anderen kan hittestress optreden wanneer men lang buiten in de zon is (bijv. bij openlucht muziek festivals) en/of bij grote fysieke inspanningen (bijv. tijdens de Nijmeegse vierdaagse).;0,10,20,30,40,50,60;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000000
 Reeks droge dagen;Droogte;;14,15,16,17,18,19,20;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000000
-Reeks zomerdagen;Hitte;;0,10,20,30,40,50,60;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000001
+Reeks zomerdagen;Hitte;;0,10,20,30,40,50,60;Aantal dagen;#FFFED4,#FFE6A4,#FEC46D,#FE9928,#E67218,#C4500B,#993404
 Tropische nachten;Hitte;;0,10,20,30,40,50,60;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000002
 Warme dagen;Hitte;;50,70,90,110,130,150,170;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000003
-Vorstdagen;Hitte;;0,2,4,6,8,10,12;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000004
+Vorstdagen;Hitte;;0,2,4,6,8,10,12;Aantal dagen;#BDFEA9, #94F3B2, #6AE5BB, #41D7C5, #36B28B, #2C8C52, #216719
 Zomerdagen;Hitte;;0,20,40,60,80,100,120;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000005
-Aantal dagen met max temp. <= 0;Hitte;;0,2,4,6,8,10,12;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000006
-Aantal dagen met neerslagsom >= 15 mm;Wateroverlast;;0,3,6,9,12,15,18;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000007
-Aantal dagen met neerslagsom >= 25 mm;Wateroverlast;;0,1,2,3,4,5,6;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000008
-Neerslagsom jaar;Droogte;;750,800,850,900,950,1000,1050;Aantal mm;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000009
-Neerslagsom winter;Droogte;;400,500,600,700,800,900,1000;Aantal mm;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000010
-Neerslagsom zomer;Droogte;;400,500,600,700,800,900,1000;Aantal mm;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000011
+Ijsdagen;Hitte;;0,2,4,6,8,10,12;Aantal dagen;#90DD46, #89D872, #82D29A, #7BCCC4, #56B0C8, #2F8FC0, #0968AC
+Aantal dagen met neerslagsom >= 15 mm;Wateroverlast;;0,3,6,9,12,15,18;Aantal dagen;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F0
+Aantal dagen met neerslagsom >= 25 mm;Wateroverlast;;0,1,2,3,4,5,6;Aantal dagen;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F1
+Neerslagsom jaar;Droogte;;750,800,850,900,950,1000,1050;Aantal mm;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F2
+Neerslagsom winter;Droogte;;400,500,600,700,800,900,1000;Aantal mm;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F3
+Neerslagsom zomer;Droogte;;400,500,600,700,800,900,1000;Aantal mm;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F4
 Gemiddelde temp. jaar;Hitte;;10,11,12,13,14,15,16;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000012
 Gemiddelde temp. winter;Hitte;;0,1,2,3,4,5,6;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000013
 Gemiddelde temp. zomer;Hitte;;14,15,16,17,18,19,20;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000014
@@ -21,5 +21,5 @@ Gemiddelde max temp. jaar;Hitte;;20,22,24,26,28,30,32;Graden °C;#F5F908, #F5AC0
 Gemiddelde min temp. jaar;Hitte;;-10,-8,-6,-4,-2,0,2;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000023
 Lengte groeiseizoen;Hitte;;0,20,40,60,80,100,120;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000024
 Aantal dagen met max temp >= 35;Hitte;;0,20,40,60,80,100,120;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000025
-Jaarsom potentiele verdamping;Droogte;;400,500,600,700,800,900,1000;Aantal mm;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000026
+Jaarsom potentiele verdamping;Droogte;;550,600,650,700,750,800,850;Aantal mm;#1360E5, #33C4F5, #6CEBD7, #40DF3E, #B1DD20, #F0EC12, #FF8C0A
 Maximaal neerslagtekort tussen 1 april en 30 september;Droogte;;100,200,300,400,500,600,700;Aantal mm;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000029
