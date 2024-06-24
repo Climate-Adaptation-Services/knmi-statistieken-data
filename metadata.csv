@@ -10,11 +10,11 @@ Ijsdagen;Hitte;;0,2,4,6,8,10,12;Aantal dagen;#90DD46, #89D872, #82D29A, #7BCCC4,
 Aantal dagen met neerslagsom >= 15 mm;Wateroverlast;;0,3,6,9,12,15,18;Aantal dagen;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F0
 Aantal dagen met neerslagsom >= 25 mm;Wateroverlast;;0,1,2,3,4,5,6;Aantal dagen;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F1
 Neerslagsom jaar;Droogte;;750,800,850,900,950,1000,1050;Aantal mm;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F2
-Neerslagsom winter;Droogte;;400,500,600,700,800,900,1000;Aantal mm;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F3
-Neerslagsom zomer;Droogte;;400,500,600,700,800,900,1000;Aantal mm;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F4
-Gemiddelde temp. jaar;Hitte;;10,11,12,13,14,15,16;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000012
-Gemiddelde temp. winter;Hitte;;0,1,2,3,4,5,6;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000013
-Gemiddelde temp. zomer;Hitte;;14,15,16,17,18,19,20;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000014
+Neerslagsom winter;Droogte;;150,200,250,300,350,400,450;Aantal mm;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F3
+Neerslagsom zomer;Droogte;;150,200,250,300,350,400,451;Aantal mm;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F4
+Gemiddelde temp. jaar;Hitte;;8,9,10,11,12,13,14;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000012
+Gemiddelde temp. winter;Hitte;;2,4,6,8,10,12,14;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000013
+Gemiddelde temp. zomer;Hitte;;16,18,20,22,24,26,8;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000014
 Cooling degree days;Hitte;;0,50,100,150,200,250,300;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000020
 Heating degree days;Hitte;;2000,2300,2600,2900,3200,3500,3800;Aantal dagen;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000021
 Gemiddelde max temp. jaar;Hitte;;10,13,16,19,22,25,28;Graden °C;#F5F908, #F5AC05, #F55E05, #FA2804, #F00004, #780103, #000022
