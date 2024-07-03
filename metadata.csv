@@ -34,17 +34,4 @@ Jaarlijkse neerslag;Wateroverlast;13;De figuren tonen de jaarlijkse neerslag in 
 Winterneerslag;Wateroverlast;14;De figuren tonen de gemiddelde hoeveelheid neerslag in de winter (over de maanden december, januari en februari) in het huidige klimaat (1991-2020) en voor het klimaat rond 2050 en 2100 (waarden voor het laagste (Ld) en hoogste (Hn) KNMI’23 klimaatscenario). Landelijk gemiddeld is de toename van de winterneerslag in 2100 ten opzichte van nu (1991-2020) het kleinst (4%) in het Ld-scenario en het grootst (+24%) in het Hn-scenario.;150,200,250,300,350,400,450;mm;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F3
 Aantal dagen ≥ 15 mm;Wateroverlast;15;De figuren tonen het gemiddeld aantal dagen per jaar met minimaal 15 mm neerslag in het huidige klimaat (1991-2020) en voor het klimaat rond 2050 (waarden voor het laagste (Hd) en hoogste (Hn) KNMI’23 klimaatscenario) en 2100 (waarden voor het laagste (Ld) en hoogste (Hn) KNMI’23 klimaatscenario). Het aantal dagen met meer dan 15 mm neerslag per jaar neemt in alle klimaatscenario’s toe. In alle seizoenen neemt de extreme neerslag toe, waardoor ook het aantal dagen met minimaal 15 mm stijgt.;0,3,6,9,12,15,18;Aantal dagen;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F0
 Aantal dagen  ≥ 25 mm;Wateroverlast;16;De figuren tonen het gemiddeld aantal dagen per jaar met minimaal 25 mm neerslag in het huidige klimaat (1991-2020) en voor het klimaat rond 2050 en 2100 (waarden voor het laagste (Ld) en hoogste (Hn) KNMI’23 klimaatscenario). Het aantal dagen met meer dan 25 mm neerslag per jaar neemt in alle klimaatscenario’s toe. In alle seizoenen neemt de extreme neerslag toe, waardoor ook het aantal dagen met minimaal 25 mm stijgt.;0,1,2,3,4,5,6;Aantal dagen;#06C603,#5CE09A,#97FCFF,#87BAD5,#3D50FF,#802BC0,#D620F1
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
+Zeespiegelstijging;Zeespiegelstijging;1;;;Aantal mm;
